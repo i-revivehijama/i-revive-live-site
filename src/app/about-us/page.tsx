@@ -1,7 +1,8 @@
 import React from "react";
 import Header from "../components/Header";
-import Footer from "../components/Footer";
 import AboutTwo from "../components/AboutTwo";
+import Footer from "../components/Footer";
+import OurTeamTwo from "../components/OurTeamTwo";
 
 const page = () => {
   return (
@@ -9,8 +10,10 @@ const page = () => {
       <Header/>
       
       <AboutTwo />
+      <OurTeamTwo />
+      <Footer />
 
-      <Footer/>
+      
     </>
   )
 }

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 const LevelTwo = () => {
@@ -68,6 +69,7 @@ const LevelTwo = () => {
         </div>
 
         {/* Right Side: Video */}
+        <div>
         <div className="aspect-video">
           <iframe
             src="https://www.youtube.com/embed/8hjUOqhcVd8"
@@ -75,6 +77,14 @@ const LevelTwo = () => {
             allowFullScreen
             className="w-full h-full rounded-lg shadow-lg"
           ></iframe>
+        </div>
+         <Image
+                  alt="class"
+                  src="/class1.jpg" // Update with the actual image path
+                  width={500}
+                  height={500}
+                  className="w-full h-full max-h-[750px] object-cover rounded-lg"
+                />
         </div>
       </div>
 

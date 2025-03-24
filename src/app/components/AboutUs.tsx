@@ -16,7 +16,7 @@ const AboutUs = () => {
           className="w-full md:w-1/2"
         >
           <Image
-            src="/about1.avif"
+            src="/about01.JPG"
             alt="About Us"
             width={600}
             height={400}
@@ -43,6 +43,8 @@ const AboutUs = () => {
             Hijama Cupping-based wellness plans coupled with the indispensable
             goodness of Gliding Cupping & Deep Tissue Stroking under the most
             hygienic setups while fully honouring the individual&apos;s privacy.
+            <br /><br />
+            Best Hijama centre in Hyderabad at i-Revive, Mehdipatnam. We offer expert Hijama cupping therapy for both men and women. Ladies can benefit from our dedicated Hijama facilities, with treatments performed by experienced female. Enjoy personalized and professional care tailored to your needs, ensuring effective and affordable Islamic cupping therapy for everyone.
           </p>
           <div className="mt-8 flex justify-start">
             <Link href="/about-us">

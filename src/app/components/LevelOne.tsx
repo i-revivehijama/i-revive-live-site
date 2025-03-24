@@ -127,7 +127,7 @@ export default function LevelOne() {
           src="/class1.jpg" // Update with the actual image path
           width={500}
           height={500}
-          className="w-full h-full max-h-[750px] object-cover rounded-lg"
+          className="w-full h-full max-h-[380px] md:max-h-[800px] object-cover rounded-lg"
         />
         </div>
 

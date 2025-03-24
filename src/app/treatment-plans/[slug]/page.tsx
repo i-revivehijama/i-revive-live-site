@@ -31,7 +31,7 @@ export default function BlogPost() {
       <Header />
       {plan.content}
       {/* Embla Carousel */}
-      <div className="container mx-auto relative mt-6 py-4 pb-8">
+      <div className="container mx-auto relative mt-6 py-4 px-4 pb-8">
         <div ref={emblaRef} className="overflow-hidden">
           <div className="flex space-x-4">
             {treatmentPlansData.map((plan, index) => (

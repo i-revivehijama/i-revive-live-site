@@ -1,5 +1,12 @@
 export const teamMembers = [
   {
+    name: 'Mohammed Khan',
+    role: 'Visionary Leader & CEO',
+    occupation: 'Entrepreneur & Business Strategist',
+    image: '/mohdkhan.JPG',
+    // description: 'Mohammed Khan is a dynamic leader and visionary entrepreneur dedicated to creating a meaningful impact beyond conventional business success. As the CEO of Delta group of companies, he brings a wealth of experience and strategic insight, sitting on the board of multiple companies across the Gulf and India.',
+  },
+  {
     name: 'Imran Khan',
     role: 'Lead Practitioner @ i-Revive',
     occupation: '(DHT, MDHT, Certified Trainer, Gold Medal awardee)',
@@ -13,13 +20,7 @@ export const teamMembers = [
     image: '/drfareeda.jpg',
     // description: 'OB-GYN consultant at Latifa Hospital with a focus on ultrasound in feto-maternal medicine and a passion for high-risk pregnancy care. Dedicated to advancing maternal and fetal health through innovative and compassionate clinical practice. Experience Latifa Hospital 19 years, Consultant Obstetrics and Gynecology,',
   },
-  {
-    name: 'Mohammed Khan',
-    role: 'Visionary Leader & CEO',
-    occupation: 'Entrepreneur & Business Strategist',
-    image: '/mohdkhan.JPG',
-    // description: 'Mohammed Khan is a dynamic leader and visionary entrepreneur dedicated to creating a meaningful impact beyond conventional business success. As the CEO of Delta group of companies, he brings a wealth of experience and strategic insight, sitting on the board of multiple companies across the Gulf and India.',
-  },
+  
   {
     name: 'Dr. Asma Moinuddin',
     role: 'Director @ i-Revive',

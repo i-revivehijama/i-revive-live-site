@@ -21,7 +21,7 @@ const AboutTwo = () => {
         <p>
           Visit{" "}
           <Link
-            href="/"
+            href="/best-hijama-centre-for-ladies-hyderabad"
             className="text-green-600 underline hover:text-green-700"
           >
             Best Hijama Centre for women in Hyderabad

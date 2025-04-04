@@ -1038,7 +1038,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <h1 className="text-xl lg:text-2xl py-2">
-          <Link href="/blog/hormonal-issues" className="text-blue-600 hover:underline">
+          <Link href="/blog/hormonal-issues" className="text-black hover:underline">
             Hormonal Issues?
           </Link>
         </h1>
@@ -1934,7 +1934,7 @@ export const blogPosts = [
           className="w-full aspect-video object-cover object-top h-44"
         />
         <h1 className="text-xl lg:text-2xl py-2">
-          <Link href="/blog/hormonal-issues" className="text-blue-600 hover:underline">
+          <Link href="/blog/hormonal-issues" className="text-black hover:underline">
             Hormonal Issues?
           </Link>
         </h1>

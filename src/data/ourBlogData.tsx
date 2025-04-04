@@ -1032,16 +1032,16 @@ export const blogPosts = [
       <div>
         <Image
           alt="hi"
-          src="/b14.jpg"
+          src="/b4.jpg"
           width={600}
           height={600}
           className="w-full aspect-video object-cover object-top h-44"
         />
-        <Link href="/blog/stress-and-hijama">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
-            Stress and Hijama
-          </h1>
-        </Link>
+        <h1 className="text-xl lg:text-2xl py-2">
+          <Link href="/blog/hormonal-issues" className="text-blue-600 hover:underline">
+            Hormonal Issues?
+          </Link>
+        </h1>
       </div>
       <div>
         <Image
@@ -1925,19 +1925,19 @@ export const blogPosts = [
           <p>See all</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      <div>
+        <div>
         <Image
-          alt="Stress and Hijama"
-          src="/b14.jpg"
+          alt="hi"
+          src="/b4.jpg"
           width={600}
           height={600}
           className="w-full aspect-video object-cover object-top h-44"
         />
-        <Link href="/blog/stress-and-hijama">
-          <h1 className="text-xl lg:text-2xl py-2 hover:text-blue-500 transition">
-            Stress and Hijama
-          </h1>
-        </Link>
+        <h1 className="text-xl lg:text-2xl py-2">
+          <Link href="/blog/hormonal-issues" className="text-blue-600 hover:underline">
+            Hormonal Issues?
+          </Link>
+        </h1>
       </div>
       <div>
         <Image

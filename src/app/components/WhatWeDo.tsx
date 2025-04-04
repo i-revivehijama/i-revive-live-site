@@ -19,7 +19,7 @@ const WhatWeDo = () => {
         Natural Wellness for Your Body
       </h2>
 
-      <p className="mt-4 text-gray-600 text-lg max-w-2xl mx-auto">
+      <p className="mt-4 text-gray-600 text-lg max-w-2xl mx-auto text-justify">
         Hijama (Cupping Therapy) is a natural healing practice that detoxifies,
         improves circulation, and relieves pain. Our expert practitioners
         provide a safe, hygienic, and relaxing experience tailored to your

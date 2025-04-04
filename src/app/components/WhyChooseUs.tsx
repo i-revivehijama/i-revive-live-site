@@ -27,7 +27,7 @@ const WhyChooseUs = () => {
           Why Choose Us? Reclaim Your <br className="hidden md:block" /> Health
           and Vitality.
         </h2>
-        <p className="mt-4 text-lg sm:text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
+        <p className="mt-4 text-lg sm:text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto text-justify leading-relaxed">
           Choose i-revive for expert care, a safe environment, and personalized
           Hijama sessions that promote natural healing and balance. Your
           wellness is our priority.

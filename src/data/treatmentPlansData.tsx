@@ -13,12 +13,12 @@ export const treatmentPlansData = [
         <div className="absolute w-full h-full"></div>
 
         {/* Content */}
-        <div className="relative z-10 flex flex-col justify-center h-full px-6 md:px-16 text-black">
-          <div className="py-6"></div>
+        <div className="relative z-10 flex flex-col justify-center h-full px-6 md:px-16 text-black ">
+          <div className="py-4"></div>
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black n"
+            className="flex items-center text-sm md:text-base text-black dark:text-white"
           >
             ← Back to All Plans
           </Link>
@@ -143,7 +143,7 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
@@ -273,7 +273,7 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
@@ -406,7 +406,7 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
@@ -533,7 +533,7 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
@@ -678,7 +678,7 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
@@ -822,7 +822,7 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
@@ -956,13 +956,13 @@ export const treatmentPlansData = [
           {/* Back Link */}
           <Link
             href="/treatment-plans"
-            className="flex items-center text-sm md:text-base text-black dark:text-white"
+            className="flex items-center text-sm md:text-base text-black dark:text-white mt-6"
           >
             ← Back to All Plans
           </Link>
 
           {/* Heading */}
-          <h1 className="mt-4 text-4xl md:text-5xl font-bold text-black dark:text-white">
+          <h1 className="mt-4 text-4xl md:text-5xl font-bold text-black dark:text-white ">
             Custom Plan
           </h1>
 

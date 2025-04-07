@@ -47,7 +47,7 @@ export default function BlogPost() {
                 </div>
 
                 <Link href={`/treatment-plans/${plan.slug}`}>
-                  <p className="mt-2 font-semibold text-gray-800 lg:text-2xl">
+                  <p className="mt-2 font-semibold text-gray-800 lg:text-2xl dark:text-white">
                     {plan.title}
                   </p>
                 </Link>

@@ -9,7 +9,7 @@ import ContactForm from "./components/ContactForm";
 import AboutUs from "./components/AboutUs";
 import WhyChooseUs from "./components/WhyChooseUs";
 import OurTeam from "./components/OurTeam";
-import BackToTop from "./components/BackToTop";
+import MobileStickyBar from "./components/MobileStickyBar";
 export default function Home() {
   return (
    <div>
@@ -23,7 +23,8 @@ export default function Home() {
     <OurTeam />
     <Testimonial />
     <OurBlog />
-    <BackToTop />
+    
+    <MobileStickyBar />
     <Footer />
    </div>
   );

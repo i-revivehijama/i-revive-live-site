@@ -4,7 +4,7 @@ import { FaPhone, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 
 const MobileStickyBar: React.FC = () => {
   return (
-    <div className="lg:hidden fixed bottom-0 left-0 right-0 bg-primary text-white py-3 shadow-lg">
+    <div className="lg:hidden fixed bottom-0 left-0 right-0 bg-primary text-white py-3 shadow-lg z-50">
       <div className="flex justify-around items-center">
         {/* Phone Icon */}
         <a href="tel:800-9944-335" className="flex flex-col items-center">
